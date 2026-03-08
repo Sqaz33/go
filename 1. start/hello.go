@@ -13,5 +13,5 @@ import (
 )
 
 func main() {
-	fmt.Println(quote.Go())
+	fmt.Println(quote.Hello())
 }
